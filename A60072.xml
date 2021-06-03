@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short disswasive from popery, and from countenancing and encouraging of papists</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60072</idno><idno type="EEBO-CITATION">12041986</idno>
+  <idno type="VID">52988</idno>
+  <idno type="EEBO-PROQUEST">2240956321</idno>
+  
+            <idno type="STC">Wing S3591A</idno>
+            <idno type="STC">ESTC R18743</idno>
+            <idno type="OCLC">12041986</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52988)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 823:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short disswasive from popery, and from countenancing and encouraging of papists</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Clerk,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Broadside.</note>
+                  <note>UMI microfilm erroneously identified as S3591 in ESTC.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Great Britain.</term>
+               <term type="topical_term">Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52988:1"/>
+            <head>A SHORT DISSWASIVE FROM POPERY, AND FROM <hi>Countenancing</hi> and <hi>Encouraging</hi> of PAPISTS.</head>
+            <p>IT is not my meaning to give the Reader a full view of all the parts of Popery, which cannot be done within the Compass of half a Sheet of Pa<g ref="char:EOLhyphen"/>per; but only to present him with one Instance of it: And I shall choose to pitch upon <hi>Transubstanti<g ref="char:EOLhyphen"/>ation,</hi> which the Papists themselves have heretofore chosen and singled out for a Test, and for the <hi>Shib<g ref="char:EOLhyphen"/>boleth</hi> of that Religion; the <hi>burning Article,</hi> as a Re<g ref="char:EOLhyphen"/>verend and Learned Author has lately nam'd it; and I hope it will never lose that Name: For in Q. <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> time, when the Papists had gotten a man to take the Oath <hi>ex Officio,</hi> and were thereby enabled to pump his Belief, and his heart out, the principal Interro<g ref="char:EOLhyphen"/>gatory was this; <hi>What do you believe concerning the Sa<g ref="char:EOLhyphen"/>crament of the Altar?</hi> Now because whenever Pope<g ref="char:EOLhyphen"/>ry returns, this old Interrogatory will certainly come again along with it, it is fit for us to be provi<g ref="char:EOLhyphen"/>ded with somewhat of an Answer: And I think we cannot have a fuller, than in these express words of our own Church. <hi>The Sacramental Bread and Wine</hi> (even after Consecration) <hi>remain still in their very natural Substances, and therefore may not be adored; for that were Idolatry to be abhorred of all faithful Christians: and the natural Body and Blood of our Saviour Christ are in Heaven, and not here; it being against the truth of Christs natural Body, to be at one time in more places than one.</hi> Common-prayer-book, <hi>in the</hi> Declaration <hi>at the end of the</hi> Communion.</p>
+            <p>I shall here endeavour to make good this last Pro<g ref="char:EOLhyphen"/>position, namely, <hi>That it is against the Truth of Christs Natural Body, to be at one time in more places than one:</hi> which is point blank contrary to the Doctrine of the Papists; for they assert, That the Natural Bo<g ref="char:EOLhyphen"/>dy of Christ is in ten thousand different, and very distant places at once.</p>
+            <p>It will not be needful to meddle with any other difficulties in Transubstantiation; as namely, the surviving Accidents of a Substance which is defunct, and quite and clean abolished; the crowding up of a humane Body, about six foot long, within the com<g ref="char:EOLhyphen"/>pass of a pin's head; the out-facing of all Man-kind, that a Wafer is chang'd into an humane Body, when all the World see, and feel, and taste, that it still remains a plain honest Wafer, and are fully convin<g ref="char:EOLhyphen"/>ced, that there is no change nor Transubstantiation wrought, unless it be upon those Changelings that believe it.</p>
+            <p>I shall purposely wave these and several such like high and arduous points, for fear of being oppressed and overwhelmed with too much Mystery at once, and shall confine my self wholly to that one strange quality which a transubstantiated Body has, of be<g ref="char:EOLhyphen"/>ing present in several places at one and the same time.</p>
+            <p>The Papists are very well aware, that a transub<g ref="char:EOLhyphen"/>stantiated Body breaks all the Laws of Bodies in this as well as in all other particulars, and therefore they say, that this Body is in the Sacrament after the man<g ref="char:EOLhyphen"/>ner of a Spirit; which, as they have been long since told, is to say, a thing is white, not after the man<g ref="char:EOLhyphen"/>ner of whiteness, but after the Manner of blackness, and is to speak Nonsense after the manner of Sense.</p>
+            <p>But what signifies it amongst Friends, though we should for once allow white to be black, or a Body to be a Spirit? They shall have what they will. This Body shall, if they please, have this property of a Spirit, that it shall not be in a place <hi>circumscriptivè,</hi> as all Bodies are; but <hi>definitivè,</hi> as a Spirit is.</p>
+            <p>Yet still that which is in a place <hi>definitivè,</hi> or after the manner of a Spirit, is so in a place, that it is not elsewhere; but this being in many places at once, is pregnant with innumerable Contradictions. For let
+<table>
+                  <row>
+                     <cell>A</cell>
+                     <cell>B</cell>
+                     <cell>C</cell>
+                  </row>
+                  <row>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                  </row>
+               </table> ABC be so many distinct places, and let D be the Body in those places; and then it will follow, that the same Body is in the same place, and is not in the same place at the same time: For instance, D is in A, and it is not in A, for it is in B, which is not A; it is all in B, and it is all out of B, for it is in C, which is all out of B. And thus you may ring Changes of endless contradicti<g ref="char:EOLhyphen"/>ons; for still as you multiply these places, the con<g ref="char:EOLhyphen"/>tradictions encrease and multiply upon you. From whence it likewise follows, that the self same Body at the same time shall be below it self, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d above it self, and <hi>Antipodes</hi> to it self; it shall be before it self, and behind it self, and take the wall of it self; it shall be on the right hand, and on the left, and in the middle of it self; it shall be near it self, and afar off, all at once. These and innumerable such like Absurdities are the spawn and issue of the fore<g ref="char:EOLhyphen"/>going Contradictions. And then the several other Accidents which may happen to this self same Body in several places, will produce another Fry of fresh Monsters: For the same Body at the same time shall be hot in one place, and cold in another; it shall be moist in one place, and at the same time it shall be as dry as a bone in another. And lastly, when it is considered, that this <hi>hiccius doctius</hi> Body is pretend<g ref="char:EOLhyphen"/>ed to be God's Body, and God himself, the Indig<g ref="char:EOLhyphen"/>nities are insufferable which are put upon him; for he is eaten and swallowed down in one place, and eve<g ref="char:EOLhyphen"/>ry body knows what becomes of him in another.</p>
+            <p>Now this is <hi>Transubstantion!</hi> This is the Doctrine which, because our Forefathers could not swallow, was thrust down their Throats with burning Fire<g ref="char:EOLhyphen"/>brands. But who would not rather choose to em<g ref="char:EOLhyphen"/>brace
+<pb n="2" facs="tcp:52988:2"/> a Stake and Flames of Fire with a chearful and undaunte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Breast, and with open Arms, than to let into his Soul such an unworthy Belief, as does at once dethrone the Majesty of Heaven, and the Rea<g ref="char:EOLhyphen"/>son of Mankind? The Reason, the Religion, the Senses of Mankind are against it, and all the Facul<g ref="char:EOLhyphen"/>ties of their Souls rise up in contradiction and oppo<g ref="char:EOLhyphen"/>sition to it. And therefore it has constantly been propounded to men upon the Swords point, it has been propagated by Fire and Faggot, by holy Wars and outragious Murders, by occasional Massacres, and by a standing Inquisition; and was never sub<g ref="char:EOLhyphen"/>mitted to but by Beasts of Burden, who were be<g ref="char:EOLhyphen"/>come <hi>like the Horse and Mule, which have no under<g ref="char:EOLhyphen"/>standing.</hi>
+            </p>
+            <p>It is unexpressible the Cruelty that has been used, to make way for this monstrous, absurd, and bar<g ref="char:EOLhyphen"/>barous Doctrine! Witness the Ashes of our own Martyrs in Q. <hi>Maries</hi> time, and the Deluge of Pro<g ref="char:EOLhyphen"/>testant blood which was shed in the <hi>French</hi> and <hi>Irish</hi> Massacres. And when God shall make Inquisition for that Blood, it is much to be feared, that a great part of the Vengeance which is due for it, will fall upon the Heads of those men, who countenance, encourage, and strengthen the hands of the Papists, though they be not Papists themselves. For they a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Accessories after the Fact, and involve themselves in the guilt of that Blood, by comforting and Re<g ref="char:EOLhyphen"/>setting those that shed it, and whose Religion it is to shed as much more, as soon as possibly they can. If he that only bids a Seducer <hi>God-speed,</hi> is <hi>partaker of his evil deeds,</hi> as the Apostle St. <hi>John</hi> expresly af<g ref="char:EOLhyphen"/>firms, 2 <hi>Epist. 11. vers.</hi> By the same Reason, if we not only bid the Papists <hi>God-speed,</hi> but speed them our selves, and slavishly hold the stirrup for them, we shall be much more <hi>partakers</hi> of their <hi>evil deeds:</hi> Such evil deeds as the <hi>Smithfield</hi> Fires which they kindled here, the havock, destruction, and desolation which they have made in other parts of the World, and the Rivers of Blood which they shed in <hi>Ireland.</hi> I know that this last has been excused, as if it were not an <hi>evil deed,</hi> and it has been said, that the Pa<g ref="char:EOLhyphen"/>pists did it <hi>in their own Defence.</hi> But did they Butch<g ref="char:EOLhyphen"/>er helpless Women, and sucking Children, in their own Defence? Was it in their own Defence, they slit the Months of Clergy-men from ear to ear, and then p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t leaves of the Bible into their Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths and bid them Preach? Was it in their own Defence that they kill'd men by piece-meal, with lingring tor<g ref="char:EOLhyphen"/>tures, and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de them feel a thousand Deaths in one; and after that, made Candles of their Fat to be of<g ref="char:EOLhyphen"/>fered to the Virgin <hi>Mary?</hi> How can it be said, That the Papi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts did all this to save their own Lives, when they were in no danger, and when they knew, that they might have laid down their heads, and have slept as securely upon the Laps of those very Protestants whom they thus murdered, as upon their own Pillowes? Read, see, turn over the Histories of those times, and you will find, that the Papists had no apprehensions of Mischief from the Prote<g ref="char:EOLhyphen"/>stants, nor indeed the Protestants from them, or else they had never suffered as they did by that sur<g ref="char:EOLhyphen"/>prize. To conclude, If the Papists acted all those Cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elties in their own Defence then, why may they not act them over again upon the same Plea now? Neither can I see whither such sayings tend, unless it be to prompt and encourage them to it.</p>
+            <p>In vain do we magnifie the Liturgy, and pretend to honour the Compilers of it, who sealed the Pro<g ref="char:EOLunhyphen"/>testant Truth with their Blood, if at the same tim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we abett and encourage that Antichristian broo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which shed it. In vain do we garnish their Sepul<g ref="char:EOLhyphen"/>chres, if we court those who persecute their Ashes▪ In vain do we call them Martyrs, if we hugg thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Murderers. The Popish Crew is always the same▪ it is their own bragg, that their Doctrine has suf<g ref="char:EOLhyphen"/>fered no Alteration nor Interruption: and if they be still the same, we have reason to expect the same from them. Popery is the old Serpent still; we are to thank God and our good Laws, that she is some<g ref="char:EOLhyphen"/>what chilled and benumbed in these Northern parts: And shall we now, in defiance to the Laws of God, of our Countrey, and of our own Preservation, che<g ref="char:EOLhyphen"/>rish and revive the old mortal Sting with no other warmth, than that of our own Bosoms?</p>
+            <p>The Primitive Christians of the first three hundred years, would have given any thing but their Souls, to have had their Religion established and fenced by such good Laws as we have, too good to be parted with for any Papists good looks. And every man has a Property in this unvaluable Treasure. Other parts of the Law are not of so universal concern<g ref="char:EOLhyphen"/>ment, nor have all men a like Interest in them. What signifie <hi>Littleton</hi>'s Tenures to those that have neither Lands nor Livings? But every man has a Soul to be saved, as well as the greatest Princes, and has an equal Interest in the Laws which establish the true Religion: And most men have Children to in<g ref="char:EOLhyphen"/>herit this Blessing after them, which is of infinitely greater Value than Lands and Tenements, and is that which every man owes and is bound to trans<g ref="char:EOLhyphen"/>mit to his Posterity; who are born to it, and have as much Right to it, as to Breathe in the English Air.</p>
+            <p>And therefore let every Protestant in the Natio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lay his hand upon his Heart, and seriously consider, what he would have thought the establishment of the Protestant Religion worth, if he had lived in Q. <hi>Maries</hi> days; and that it is the worst way in the World of learning the worth of a thing by the want of it. Let him consider, how much better living it is, to be protected in the true Religion, and to have Laws to restrain the sworn Enemies of it, than to worship God by stealth, and in continual fear of his Life; and then let him give up his Religion in a Servile Complement if he can: Or if he can, let him withall bethink himself in case his mind should Alter, how he can ever recover it again. The Canon Law says, That if there had been no Drunkenness there had been no Slavery; and it might as well have said, if there had been no Slavery there had been no Pope<g ref="char:EOLhyphen"/>ry. For it is plain, that Popery is a <hi>forced</hi> Belief; for when you have subdued a man and have him down, you may make him say he Believes any thing. Let every man therefore be careful to preserve his Civil Rights, that his Religious Rights may be pre<g ref="char:EOLhyphen"/>served: And let no man be led away with false pre<g ref="char:EOLhyphen"/>tences of Loyalty to degrade his Prince, and of a King of Freemen to make him a King of Slaves. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Word, Let every man be true to God, and to the Law of the Land. <hi>My Son, Fear thou the Lord and the King, and meddle not with them who are given to change</hi> both our Government into <hi>Turkish,</hi> and our Religion into <hi>Popish. For their Calamity shall rise suddenly, and who knoweth the ruine of them both?</hi> Prov. 24. 21, 22.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Clerk.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
